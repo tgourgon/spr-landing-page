@@ -1,4 +1,4 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
+baseURL = 'https://precision22.ca'
 languageCode = 'en-us'
-title = 'Netlify + Hugo Quickstart'
+title = 'SPR - Stittsville Precision Rimfire'
 theme = 'netlify-basic'
